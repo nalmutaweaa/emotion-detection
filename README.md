@@ -58,4 +58,4 @@ The dataset was imbalanced, and some facial expressions were difficult to distin
 ## References
 - [Keras Documentation](https://keras.io/)
 - [Gradio Documentation](https://www.gradio.app/docs)
-- Dataset: Add original dataset source link.
+- [Dataset] (https://www.kaggle.com/datasets/msambare/fer2013)
